@@ -25,7 +25,7 @@ namespace XamarinFormsAppCenter.Views
         {
             try
             {
-                int a = Convert.ToInt32("vai dar erro");
+                int a = Convert.ToInt32("vai dar erro, eu sei");
             }
             catch (Exception exception)
             {
